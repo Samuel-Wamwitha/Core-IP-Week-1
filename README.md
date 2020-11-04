@@ -1,4 +1,4 @@
-# Core-IP-Week-1
+# Core-IP-Week-2
 # Python Notebook
 #### Exploratory Data Analysis (EDA), September, 2020.
 #### By **Samuel Wamwitha**
